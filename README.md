@@ -9,5 +9,6 @@ Contribute the ones you've heard!
 * `cube-C-T-L`
 * `coob-C-T-L`
 * `cube-cuddle`
+* `cube-kuttle`
 * `cube-cattle`
 * `queue-beck-tall`

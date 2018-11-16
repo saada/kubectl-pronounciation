@@ -12,3 +12,5 @@ Contribute the ones you've heard!
 * `cube-kuttle`
 * `cube-cattle`
 * `queue-beck-tall`
+* `coo-beck-tul`
+* `cue-bae-cuttle`
